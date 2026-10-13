@@ -1,5 +1,4 @@
 -- // Made by wnmxlqfbzcjf
--- Echo Hub â€” single Luarmor upload
 -- Routes by string PlaceId / GameId; no top-level return.
 -- Each game is loadstring'd so it gets its own locals budget (Luau 200 limit)
 -- without nesting huge functions (Luraph freezes on those).
